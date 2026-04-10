@@ -34,10 +34,42 @@ An end-to-end deep learning system that detects whether an image is **AI-generat
 
 ## 📊 Dataset
 
-* **AI Images**: DiffusionDB (Hugging Face)
-* **Real Images**: COCO Dataset
+The dataset consists of both AI-generated and real-world images collected from multiple sources.
 
-Data was collected, processed, and structured manually using custom scripts.
+### 🤖 AI Images
+
+* DiffusionDB dataset (Hugging Face)
+* Additional samples from Kaggle datasets
+
+### 🌍 Real Images
+
+* COCO dataset
+* Public images collected from:
+
+  * Google Images
+  * Pexels
+  * Instagram (public content)
+  * Kaggle datasets
+
+### 📈 Dataset Split
+
+| Category    | Training | Validation |
+| ----------- | -------- | ---------- |
+| AI Images   | 3072     | 746        |
+| Real Images | 2966     | 763        |
+
+* Total images used: **~7,500+**
+* Dataset is balanced across classes
+
+### 🛠️ Data Processing
+
+* Images were cleaned and filtered
+* Converted to consistent format
+* Organized into structured folders (`train/`, `val/`)
+* Custom scripts used for dataset preparation
+
+> Note: A subset of a much larger dataset was used due to computational constraints.
+
 
 ---
 
