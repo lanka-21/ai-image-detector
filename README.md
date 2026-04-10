@@ -61,6 +61,15 @@ The dataset consists of both AI-generated and real-world images collected from m
 * Total images used: **~7,500+**
 * Dataset is balanced across classes
 
+📊 Model Performance
+
+Best model (Epoch 7):
+
+Accuracy: 92.84%
+Precision: 0.9338
+Recall: 0.9240
+F1 Score: 0.9289
+
 ### 🛠️ Data Processing
 
 * Images were cleaned and filtered
