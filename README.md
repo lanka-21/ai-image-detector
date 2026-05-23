@@ -24,57 +24,24 @@ https://lankesh-6665667666-ai-detector.hf.space
   <img src="assets/main-ui.png" width="75%">
 </p>
 
-Clean Gradio-based interface for image upload, prediction analysis, confidence visualization, and Grad-CAM explainability.
+Clean Gradio-based interface for AI image detection, confidence analysis, and Grad-CAM explainability.
 
 ---
 
-## Real Image Detection
+## Detection Examples
 
 <p align="center">
   <img src="assets/real-prediction.png" width="45%">
-  <img src="assets/real-heatmap.png" width="45%">
+  <img src="assets/ai-prediction.png" width="45%">
 </p>
 
-Left: Real image prediction output with confidence-based classification.  
-Right: Grad-CAM visualization highlighting important regions used during prediction.
-
----
-
-## AI Image Detection
-
 <p align="center">
-  <img src="assets/ai-prediction.png" width="45%">
+  <img src="assets/real-heatmap.png" width="45%">
   <img src="assets/ai-heatmap.png" width="45%">
 </p>
 
-Left: AI-generated image detected with high AI probability.  
-Right: Heatmap visualization showing synthetic texture regions emphasized by the model.
-
-### AI Image Detection
-
-<table>
-<tr>
-<td align="center">
-
-**Prediction Output**
-
-<img src="assets/ai-prediction.png" width="100%">
-
-AI-generated image detected with high AI probability.
-
-</td>
-
-<td align="center">
-
-**Grad-CAM Heatmap**
-
-<img src="assets/ai-heatmap.png" width="100%">
-
-Explainability visualization highlighting synthetic texture regions.
-
-</td>
-</tr>
-</table>
+Left side shows real-image classification and Grad-CAM attention visualization.  
+Right side demonstrates AI-generated image detection with synthetic pattern focus regions.
 
 🚀 Features
 ## 📸 Screenshots
