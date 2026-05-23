@@ -16,9 +16,10 @@ https://lankesh-6665667666-ai-detector.hf.space
 
 ---
 
+
 ## 🚀 Features
 
-* 🔍 Detect AI-generated vs Real images
+* 🔍 Detect whether an image is AI-generated or real
 * 📊 Confidence-based prediction with uncertainty handling
 * 🔥 Grad-CAM visualization (model explainability)
 * ⚡ Fast API backend using FastAPI
