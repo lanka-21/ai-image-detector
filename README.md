@@ -4,6 +4,18 @@ An end-to-end deep learning system that detects whether an image is **AI-generat
 
 ---
 
+## 🚀 Live Demo
+
+🔗 Try the deployed application here:
+
+https://lankesh-6665667666-ai-detector.hf.space
+
+📌 Deployed on Hugging Face Spaces using Gradio.
+
+⚠️ Predictions may occasionally be uncertain for highly realistic AI-generated images or unseen image domains.
+
+---
+
 ## 🚀 Features
 
 * 🔍 Detect AI-generated vs Real images
