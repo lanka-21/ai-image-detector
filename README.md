@@ -24,16 +24,18 @@ https://lankesh-6665667666-ai-detector.hf.space
   <img src="assets/main-ui.png" width="75%">
 </p>
 
-Clean Gradio-based interface for AI image detection, confidence analysis, and Grad-CAM explainability.
+<p align="center">
+  Clean Gradio-based interface for AI image detection, confidence analysis, and Grad-CAM explainability.
+</p>
 
 ---
 
 ## Detection Examples
 
 <p align="center">
-  <b>Real Image Prediction</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>AI Image Prediction</b>
+  <sub><b>Real Image Prediction</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>AI Image Prediction</b></sub>
 </p>
 
 <p align="center">
@@ -44,14 +46,18 @@ Clean Gradio-based interface for AI image detection, confidence analysis, and Gr
 <br>
 
 <p align="center">
-  <b>Real Image Heatmap</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>AI Image Heatmap</b>
+  <sub><b>Real Image Heatmap</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>AI Image Heatmap</b></sub>
 </p>
 
 <p align="center">
   <img src="assets/real-heatmap.png" width="45%">
   <img src="assets/ai-heatmap.png" width="45%">
+</p>
+
+<p align="center">
+  Grad-CAM visualizations highlight the important regions and texture patterns the model focused on while distinguishing real and AI-generated images.
 </p>
 
 ## 🚀 Features
