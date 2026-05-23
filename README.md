@@ -16,6 +16,35 @@ https://lankesh-6665667666-ai-detector.hf.space
 
 ---
 
+## 📸 Application Preview
+
+### Main Interface
+
+![Main UI](assets/main-ui.png)
+
+---
+
+### Real Image Detection Example
+
+![Real Prediction](assets/real-prediction.png)
+
+---
+
+### Grad-CAM Visualization (Real Image)
+
+![Real Heatmap](assets/real-heatmap.png)
+
+---
+
+### AI-Generated Image Detection Example
+
+![AI Prediction](assets/ai-prediction.png)
+
+---
+
+### Grad-CAM Visualization (AI Image)
+
+![AI Heatmap](assets/ai-heatmap.png)
 
 ## 🚀 Features
 
