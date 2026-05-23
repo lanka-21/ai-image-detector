@@ -32,34 +32,48 @@ https://lankesh-6665667666-ai-detector.hf.space
 
 ## Detection Examples
 
-<p align="center">
-  <sub><b>Real Image Prediction</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>AI Image Prediction</b></sub>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-  <img src="assets/real-prediction.png" width="45%">
-  <img src="assets/ai-prediction.png" width="45%">
-</p>
+### Real Image Prediction
 
-<br>
+<img src="assets/real-prediction.png" width="95%">
 
-<p align="center">
-  <sub><b>Real Image Heatmap</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>AI Image Heatmap</b></sub>
-</p>
+</td>
 
-<p align="center">
-  <img src="assets/real-heatmap.png" width="45%">
-  <img src="assets/ai-heatmap.png" width="45%">
-</p>
+<td align="center" width="50%">
+
+### AI Image Prediction
+
+<img src="assets/ai-prediction.png" width="95%">
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### Real Image Heatmap
+
+<img src="assets/real-heatmap.png" width="95%">
+
+</td>
+
+<td align="center" width="50%">
+
+### AI Image Heatmap
+
+<img src="assets/ai-heatmap.png" width="95%">
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   Grad-CAM visualizations highlight the important regions and texture patterns the model focused on while distinguishing real and AI-generated images.
 </p>
-
+--
 ## 🚀 Features
 
 * 🔍 Detect whether an image is AI-generated or real
