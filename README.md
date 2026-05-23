@@ -18,11 +18,20 @@ https://lankesh-6665667666-ai-detector.hf.space
 
 ## 📸 Screenshots
 
-- [Main Interface](assets/main-ui.png)
-- [Real Image Prediction](assets/real-prediction.png)
-- [Real Image Heatmap](assets/real-heatmap.png)
-- [AI Image Prediction](assets/ai-prediction.png)
-- [AI Image Heatmap](assets/ai-heatmap.png)
+- [Main Interface](assets/main-ui.png)  
+  Clean Gradio-based interface for uploading images, viewing predictions, confidence scores, and explainability visualizations.
+
+- [Real Image Prediction](assets/real-prediction.png)  
+  Example showing successful detection of a real-world image with confidence-based classification.
+
+- [Real Image Heatmap](assets/real-heatmap.png)  
+  Grad-CAM visualization highlighting the regions the model focused on while identifying a real image.
+
+- [AI Image Prediction](assets/ai-prediction.png)  
+  Example of the model detecting an AI-generated image with high AI probability.
+
+- [AI Image Heatmap](assets/ai-heatmap.png)  
+  Explainability visualization showing synthetic texture regions emphasized during AI-image detection.
 
 ## 🚀 Features
 
