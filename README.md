@@ -16,50 +16,30 @@ https://lankesh-6665667666-ai-detector.hf.space
 
 ---
 
-## 📸 Screenshots
-
-### Main Interface
-
-<p align="center">
-  <img src="assets/main-ui.png" width="75%">
-</p>
-
-<p align="center">
-  Clean Gradio-based interface for AI image detection, confidence analysis, and Grad-CAM explainability.
-</p>
-
----
-
 ## Detection Examples
 
 <p align="center">
-  <span>
-    <h3>Real Image Prediction</h3>
-    <img src="assets/real-prediction.png" width="45%">
-  </span>
+  <img src="assets/real-prediction.png" width="45%">
+  <img src="assets/ai-prediction.png" width="45%">
+</p>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span>
-    <h3>AI Image Prediction</h3>
-    <img src="assets/ai-prediction.png" width="45%">
-  </span>
+<p align="center">
+  <b>Real Image Prediction</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI Image Prediction</b>
 </p>
 
 <br>
 
 <p align="center">
-  <span>
-    <h3>Real Image Heatmap</h3>
-    <img src="assets/real-heatmap.png" width="45%">
-  </span>
+  <img src="assets/real-heatmap.png" width="45%">
+  <img src="assets/ai-heatmap.png" width="45%">
+</p>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span>
-    <h3>AI Image Heatmap</h3>
-    <img src="assets/ai-heatmap.png" width="45%">
-  </span>
+<p align="center">
+  <b>Real Image Heatmap</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI Image Heatmap</b>
 </p>
 
 <p align="center">
