@@ -24,6 +24,7 @@ https://lankesh-6665667666-ai-detector.hf.space
 ### Main Interface
 
 ![Main UI](assets/main-ui.png)
+<img src="assets/main-ui.png" alt="Pixel glasses filter" width="45%"/>
 
 ---
 
