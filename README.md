@@ -24,37 +24,31 @@ https://lankesh-6665667666-ai-detector.hf.space
   <img src="assets/main-ui.png" width="75%">
 </p>
 
-Clean Gradio-based interface for uploading images, viewing predictions, confidence scores, and Grad-CAM visualizations.
+Clean Gradio-based interface for image upload, prediction analysis, confidence visualization, and Grad-CAM explainability.
 
 ---
 
-### Real Image Detection
+## Real Image Detection
 
-<table>
-<tr>
-<td align="center">
+<p align="center">
+  <img src="assets/real-prediction.png" width="45%">
+  <img src="assets/real-heatmap.png" width="45%">
+</p>
 
-**Prediction Output**
-
-<img src="assets/real-prediction.png" width="100%">
-
-Real-world image classified with confidence-based prediction.
-
-</td>
-
-<td align="center">
-
-**Grad-CAM Heatmap**
-
-<img src="assets/real-heatmap.png" width="100%">
-
-Visualization showing the regions focused on during classification.
-
-</td>
-</tr>
-</table>
+Left: Real image prediction output with confidence-based classification.  
+Right: Grad-CAM visualization highlighting important regions used during prediction.
 
 ---
+
+## AI Image Detection
+
+<p align="center">
+  <img src="assets/ai-prediction.png" width="45%">
+  <img src="assets/ai-heatmap.png" width="45%">
+</p>
+
+Left: AI-generated image detected with high AI probability.  
+Right: Heatmap visualization showing synthetic texture regions emphasized by the model.
 
 ### AI Image Detection
 
