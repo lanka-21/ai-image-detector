@@ -16,18 +16,6 @@ https://lankesh-6665667666-ai-detector.hf.space
 
 ---
 
-## 📸 Screenshots
-
-### Main Interface
-
-<p align="center">
-  <img src="assets/main-ui.png" width="75%">
-</p>
-
-Clean Gradio-based interface for AI image detection, confidence analysis, and Grad-CAM explainability.
-
----
-
 ## Detection Examples
 
 <p align="center">
@@ -36,30 +24,21 @@ Clean Gradio-based interface for AI image detection, confidence analysis, and Gr
 </p>
 
 <p align="center">
+  <b>Real Image Prediction</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI Image Prediction</b>
+</p>
+
+<br>
+
+<p align="center">
   <img src="assets/real-heatmap.png" width="45%">
   <img src="assets/ai-heatmap.png" width="45%">
 </p>
 
-Left side shows real-image classification and Grad-CAM attention visualization.  
-Right side demonstrates AI-generated image detection with synthetic pattern focus regions.
-
-🚀 Features
-## 📸 Screenshots
-
-- [Main Interface](assets/main-ui.png)  
-  Clean Gradio-based interface for uploading images, viewing predictions, confidence scores, and explainability visualizations.
-
-- [Real Image Prediction](assets/real-prediction.png)  
-  Example showing successful detection of a real-world image with confidence-based classification.
-
-- [Real Image Heatmap](assets/real-heatmap.png)  
-  Grad-CAM visualization highlighting the regions the model focused on while identifying a real image.
-
-- [AI Image Prediction](assets/ai-prediction.png)  
-  Example of the model detecting an AI-generated image with high AI probability.
-
-- [AI Image Heatmap](assets/ai-heatmap.png)  
-  Explainability visualization showing synthetic texture regions emphasized during AI-image detection.
+<p align="center">
+  <b>Real Image Heatmap</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI Image Heatmap</b>
+</p>
 
 ## 🚀 Features
 
