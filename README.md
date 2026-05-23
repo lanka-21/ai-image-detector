@@ -16,41 +16,71 @@ https://lankesh-6665667666-ai-detector.hf.space
 
 ---
 
-
-⚠️ Predictions may occasionally be uncertain for highly realistic AI-generated images or unseen image domains.
-
-## 📸 Application Preview
+## 📸 Screenshots
 
 ### Main Interface
 
-![Main UI](assets/main-ui.png)
-<img src="assets/main-ui.png" alt="Pixel glasses filter" width="45%"/>
+<p align="center">
+  <img src="assets/main-ui.png" width="75%">
+</p>
+
+Clean Gradio-based interface for uploading images, viewing predictions, confidence scores, and Grad-CAM visualizations.
 
 ---
 
-### Real Image Detection Example
+### Real Image Detection
 
-![Real Prediction](assets/real-prediction.png)
+<table>
+<tr>
+<td align="center">
+
+**Prediction Output**
+
+<img src="assets/real-prediction.png" width="100%">
+
+Real-world image classified with confidence-based prediction.
+
+</td>
+
+<td align="center">
+
+**Grad-CAM Heatmap**
+
+<img src="assets/real-heatmap.png" width="100%">
+
+Visualization showing the regions focused on during classification.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Grad-CAM Visualization (Real Image)
+### AI Image Detection
 
-![Real Heatmap](assets/real-heatmap.png)
+<table>
+<tr>
+<td align="center">
 
----
+**Prediction Output**
 
-### AI-Generated Image Detection Example
+<img src="assets/ai-prediction.png" width="100%">
 
-![AI Prediction](assets/ai-prediction.png)
+AI-generated image detected with high AI probability.
 
----
+</td>
 
-### Grad-CAM Visualization (AI Image)
+<td align="center">
 
-![AI Heatmap](assets/ai-heatmap.png)
+**Grad-CAM Heatmap**
 
----
+<img src="assets/ai-heatmap.png" width="100%">
+
+Explainability visualization highlighting synthetic texture regions.
+
+</td>
+</tr>
+</table>
 
 🚀 Features
 ## 📸 Screenshots
