@@ -186,7 +186,7 @@ Model performance depends on dataset quality and generalization.
 
 ## 👨‍💻 Author
 
-**Lankesh**
+**K Lankesh Kumar**
 
 ---
 
