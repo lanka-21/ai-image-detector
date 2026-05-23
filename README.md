@@ -32,48 +32,41 @@ https://lankesh-6665667666-ai-detector.hf.space
 
 ## Detection Examples
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <span>
+    <h3>Real Image Prediction</h3>
+    <img src="assets/real-prediction.png" width="45%">
+  </span>
 
-### Real Image Prediction
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="assets/real-prediction.png" width="95%">
+  <span>
+    <h3>AI Image Prediction</h3>
+    <img src="assets/ai-prediction.png" width="45%">
+  </span>
+</p>
 
-</td>
+<br>
 
-<td align="center" width="50%">
+<p align="center">
+  <span>
+    <h3>Real Image Heatmap</h3>
+    <img src="assets/real-heatmap.png" width="45%">
+  </span>
 
-### AI Image Prediction
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="assets/ai-prediction.png" width="95%">
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### Real Image Heatmap
-
-<img src="assets/real-heatmap.png" width="95%">
-
-</td>
-
-<td align="center" width="50%">
-
-### AI Image Heatmap
-
-<img src="assets/ai-heatmap.png" width="95%">
-
-</td>
-</tr>
-</table>
+  <span>
+    <h3>AI Image Heatmap</h3>
+    <img src="assets/ai-heatmap.png" width="45%">
+  </span>
+</p>
 
 <p align="center">
   Grad-CAM visualizations highlight the important regions and texture patterns the model focused on while distinguishing real and AI-generated images.
 </p>
----
+
+
 ## 🚀 Features
 
 * 🔍 Detect whether an image is AI-generated or real
