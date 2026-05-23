@@ -16,6 +16,18 @@ https://lankesh-6665667666-ai-detector.hf.space
 
 ---
 
+## 📸 Screenshots
+
+### Main Interface
+
+<p align="center">
+  <img src="assets/main-ui.png" width="75%">
+</p>
+
+Clean Gradio-based interface for AI image detection, confidence analysis, and Grad-CAM explainability.
+
+---
+
 ## Detection Examples
 
 <p align="center">
