@@ -57,7 +57,6 @@ https://lankesh-6665667666-ai-detector.hf.space
 <p align="center">
   Grad-CAM visualizations highlight the important regions and texture patterns the model focused on while distinguishing real and AI-generated images.
 </p>
----
 
 
 ## 🚀 Features
