@@ -27,7 +27,7 @@ https://lankesh-6665667666-ai-detector.hf.space
 </p>
 
 ---
----
+
 ## Detection Examples
 
 <p align="center">
